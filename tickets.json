@@ -1,0 +1,12 @@
+{
+  "1": {
+    "ticket_id": 1,
+    "ticket_type": "Regular",
+    "price": 100
+  },
+  "2": {
+    "ticket_id": 2,
+    "ticket_type": "Regular",
+    "price": 100
+  }
+}
