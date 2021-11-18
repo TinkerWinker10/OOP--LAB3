@@ -1,0 +1,30 @@
+{
+  "Monday": {
+    "name": "Four seasons",
+    "price": 100
+  },
+  "Tuesday": {
+    "name": "Margarita",
+    "price": 80
+  },
+  "Wednesday": {
+    "name": "Gavaian",
+    "price": 150
+  },
+  "Thursday": {
+    "name": "Pineappled",
+    "price": 50
+  },
+  "Friday": {
+    "name": "Four cheeses",
+    "price": 120
+  },
+  "Saturday": {
+    "name": "Family-pizza",
+    "price": 350
+  },
+  "Sunday": {
+    "name": "Cono-pizza",
+    "price": 115
+  }
+}
